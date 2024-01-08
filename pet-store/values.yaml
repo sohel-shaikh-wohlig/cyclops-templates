@@ -1,0 +1,5 @@
+image: sohelwohlig/pet-store
+name: pet-store
+replicas: 1
+service: true
+version: latest
