@@ -1,5 +1,5 @@
-image: sohelwohlig/solr-utilities
-name: solr-utilities
+image: sohelwohlig/solr-import
+name: solr-import
 replicas: 1
 service: true
-version: latest
+version: 1.0.0
