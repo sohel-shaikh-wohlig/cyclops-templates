@@ -1,0 +1,5 @@
+image: sohelwohlig/solr-utilities
+name: solr-utilities
+replicas: 1
+service: true
+version: latest
